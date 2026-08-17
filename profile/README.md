@@ -30,8 +30,7 @@ result checkable by someone who trusts nobody involved.
 
 **[tracefold](https://github.com/TraceFold/tracefold)** — the substrate. A change is held
 with a checked inverse before it is applied, and every verdict becomes a receipt a third
-party can verify offline, with no network and no trust in whoever issued it. Rust, single
-binary, Apache-2.0.
+party can verify offline, with no network and no trust in whoever issued it.
 
 ## What we do not claim
 
