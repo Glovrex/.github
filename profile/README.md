@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://github.com/TraceFold/tracefold/releases/download/brand-assets/banner.png" alt="" width="900">
+
 # glovrex
 
 *provenance before the fact*
