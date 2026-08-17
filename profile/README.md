@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TraceFold/tracefold/main/assets/brand/banner-glovrex.png" alt="Glovrex" width="900">
+<img src="profile/banner.png" alt="Glovrex" width="900">
 
 <br>
 
