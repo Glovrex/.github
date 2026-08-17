@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="banner.png" alt="Glovrex" width="900">
+# glovrex
 
-<br>
+*provenance before the fact*
 
-**[Tracefold](https://github.com/TraceFold/tracefold)** &nbsp;·&nbsp;
-[Field notes](https://glovrex.com) &nbsp;·&nbsp;
-[What we refuse to claim](#what-we-do-not-claim) &nbsp;·&nbsp;
-[The audit](#how-the-work-is-checked)
+[![tracefold](https://img.shields.io/badge/tracefold-0b0a09?style=for-the-badge&labelColor=0b0a09&logo=github&logoColor=ece7da)](https://github.com/TraceFold/tracefold)
+[![field notes](https://img.shields.io/badge/field%20notes-0b0a09?style=for-the-badge&labelColor=0b0a09)](https://glovrex.com)
+[![what we refuse to claim](https://img.shields.io/badge/what%20we%20refuse%20to%20claim-0b0a09?style=for-the-badge&labelColor=0b0a09)](#what-we-do-not-claim)
 
 </div>
 
@@ -23,14 +22,12 @@ result checkable by someone who trusts nobody involved.
 
 ## What is here
 
-**[Tracefold](https://github.com/TraceFold/tracefold)** — the substrate. A change is held
+**[tracefold](https://github.com/TraceFold/tracefold)** — the substrate. A change is held
 with a checked inverse before it is applied, and every verdict becomes a receipt a third
 party can verify offline, with no network and no trust in whoever issued it. Rust, single
 binary, Apache-2.0.
 
 ## What we do not claim
-
-Three things, said here so nobody has to discover them later.
 
 **Not every change is reversible.** Where an inverse cannot be constructed, that is an
 input to the decision, not a footnote. The system refuses rather than pretends.
