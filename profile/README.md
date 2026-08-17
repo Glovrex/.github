@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TraceFold/tracefold/main/assets/brand/hero-glovrex.png" alt="Glovrex" width="820">
+<img src="https://raw.githubusercontent.com/TraceFold/tracefold/main/assets/brand/banner-glovrex.png" alt="Glovrex" width="900">
 
 <br>
 
 **[Tracefold](https://github.com/TraceFold/tracefold)** &nbsp;·&nbsp;
 [Field notes](https://glovrex.com) &nbsp;·&nbsp;
 [What we refuse to claim](#what-we-do-not-claim) &nbsp;·&nbsp;
-[The audit](#how-the-work-is-checked) &nbsp;·&nbsp;
-[Contact](#contact)
+[The audit](#how-the-work-is-checked)
 
 </div>
 
@@ -64,4 +63,4 @@ and they ship first.
 
 ## Contact
 
-mahirhir@glovrex.com &nbsp;·&nbsp; [glovrex.com](https://glovrex.com)
+[glovrex.com](https://glovrex.com)
