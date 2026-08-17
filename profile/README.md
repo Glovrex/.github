@@ -6,10 +6,12 @@
 
 *provenance before the fact*
 
+**Undo is a feature. Reversibility is a property.**
+
 <p>
-<a href="https://github.com/TraceFold/tracefold"><img alt="tracefold" src="https://img.shields.io/badge/tracefold-0b0a09?style=for-the-badge&labelColor=0b0a09&logo=github&logoColor=ece7da"></a>
-<a href="https://glovrex.com"><img alt="field notes" src="https://img.shields.io/badge/field%20notes-0b0a09?style=for-the-badge&labelColor=0b0a09"></a>
-<a href="#what-we-do-not-claim"><img alt="what we refuse to claim" src="https://img.shields.io/badge/what%20we%20refuse%20to%20claim-0b0a09?style=for-the-badge&labelColor=0b0a09"></a>
+<a href="https://github.com/TraceFold/tracefold"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/tracefold-ece7da?style=for-the-badge&labelColor=ece7da&logo=github&logoColor=0b0a09"><img alt="tracefold" src="https://img.shields.io/badge/tracefold-0b0a09?style=for-the-badge&labelColor=0b0a09&logo=github&logoColor=ece7da"></picture></a>
+<a href="https://glovrex.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/field%20notes-ece7da?style=for-the-badge&labelColor=ece7da"><img alt="field notes" src="https://img.shields.io/badge/field%20notes-0b0a09?style=for-the-badge&labelColor=0b0a09"></picture></a>
+<a href="#what-we-do-not-claim"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/what%20we%20refuse%20to%20claim-ece7da?style=for-the-badge&labelColor=ece7da"><img alt="what we refuse to claim" src="https://img.shields.io/badge/what%20we%20refuse%20to%20claim-0b0a09?style=for-the-badge&labelColor=0b0a09"></picture></a>
 </p>
 
 </div>
