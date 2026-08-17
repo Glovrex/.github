@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/banner.png" alt="Glovrex" width="900">
+<img src="banner.png" alt="Glovrex" width="900">
 
 <br>
 
