@@ -51,11 +51,6 @@ holes it found; each repair is re-attacked in the round after.
 It goes up as well as down. A number that only ever improves is a number nobody is really
 testing, so the rounds where it climbed sit on the table with the rest.
 
-## How we work
-
-Every claim carries its own denominator: what was measured, under what conditions, how
-many times, and what was not looked at. Where something is unproven it is labelled
-unproven and stays that way until it is not. The limits ship beside the features, first.
 
 ## Contact
 
